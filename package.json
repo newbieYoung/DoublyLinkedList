@@ -1,0 +1,27 @@
+{
+  "name": "doublylinkedlist",
+  "version": "0.0.2",
+  "description": "This is a simple doubly linked list which query speed is specifically optimized for the PxDiffFrameAnimation.",
+  "main": "index.js",
+  "directories":{
+    "example":"examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://newbieYoung@github.com/newbieYoung/DoublyLinkedList.git"
+  },
+  "keywords": [
+    "doubly",
+    "linked",
+    "list"
+  ],
+  "author": "newbieyoung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newbieYoung/DoublyLinkedList/issues"
+  },
+  "homepage": "https://github.com/newbieYoung/DoublyLinkedList#readme"
+}
